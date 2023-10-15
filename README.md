@@ -1,2 +1,2 @@
-# MBR-Checker-1.0
+# MBR-Checker
 Nothing :/
